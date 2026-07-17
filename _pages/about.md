@@ -19,8 +19,8 @@ As a researcher, my goal is taking complex innovations out of the laboratory and
 
 The most successful, high-impact achievements of my life are definitely not found in a peer-reviewed journal or stamped by a patent office:
 
-*   **Marrying a beautiful girl** (by far, my most successful pitch).
-*   **Raising our wonderful kids** (easily the most complex, unpredictable, and rewarding R&D project I’ve ever managed).
+*   **Marrying a beautiful girl** (by far, my most successful result).
+*   **Raising our wonderful kids** (easily the most complex, unpredictable, and rewarding project I’ve ever managed).
 *   **Being in an NBA draft** (just joking, but I still dream about it, even if my love for basketball has never been reciprocated).
 
 Everything else is just a way to try and make the world a little bit better for them and for everyone.
@@ -30,5 +30,5 @@ Everything else is just a way to try and make the world a little bit better for 
 # Research Focus
 
 *   **Process Intensification:** Shifting chemical manufacturing from traditional batch processes to continuous flow lines to make production safer, faster, and much cleaner.
-*   **Green Chemistry:** Designing chemical setups that eliminate waste, use renewable resources, and radically slash carbon footprints.
+*   **Green Chemistry:** Designing chemical setups that eliminate waste, use renewable resources, and radically decrease carbon footprints.
 *   **Hybrid Organic-Inorganic Nanomaterials:** Building next-generation nanomaterials engineered for precise industrial, biomedical, and agrifood targeting.
