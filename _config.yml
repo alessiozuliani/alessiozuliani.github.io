@@ -15,7 +15,6 @@ description              : &description "Personal Website"   # Update this with 
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alessiozuliani/alessiozuliani.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,11 +27,11 @@ author:
   location         : "Seville (ES)"
   employer         : "University of Seville (ES)"
   employer         : "Institute for Chemical Research IIQ-CSIC"
-  email            : "none@example.org" 
+  email            : "azuliani@us.es" 
 
   # Academic websites
   Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57103390900"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=-SGSINoAAAAJ&hl=it"
   orcid            : "https://orcid.org/0000-0003-2738-254X"
   researchgate     : "https://www.researchgate.net/profile/Alessio-Zuliani"
 
