@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenure-track Professor at the University of Seville (ES), an R&D Chemist, and a Deep-Tech Founder. 
+I am a Tenure-track Professor at the University of Seville (ES), an R&D Chemist at the Institute for Chemical Research of the National Research Council (IIQ-CSIC), and a Deep-Tech Founder. 
 
 As a researcher, my goal is taking complex innovations out of the laboratory and scaling them up into actual industrial applications. To do so, I try to combine the rigor of academic research with the agility and speed of a startup founder.
 
@@ -32,4 +32,3 @@ Everything else is just a way to try and make the world a little bit better for 
 *   **Process Intensification:** Shifting chemical manufacturing from traditional batch processes to continuous flow lines to make production safer, faster, and much cleaner.
 *   **Green Chemistry:** Designing chemical setups that eliminate waste, use renewable resources, and radically slash carbon footprints.
 *   **Hybrid Organic-Inorganic Nanomaterials:** Building next-generation nanomaterials engineered for precise industrial, biomedical, and agrifood targeting.
-
