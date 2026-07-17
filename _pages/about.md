@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenure-track Professor at the University of Seville (ES), an R&D Chemist at the Institute for Chemical Research of the National Research Council (IIQ-CSIC), and a Deep-Tech Founder. 
+Born in Como (Italy) and later (after packing my life into suitcases across Europe) shifted to Spain I am a Tenure-track Professor at the University of Seville (ES), an R&D Chemist at the Institute for Chemical Research of the National Research Council (IIQ-CSIC), and a Deep-Tech Founder. 
 
 **As a researcher, my goal is taking complex innovations out of the laboratory and scaling them up into actual industrial applications.**
 To do so, I try to combine the rigor of academic research with the agility and speed of a startup founder.
