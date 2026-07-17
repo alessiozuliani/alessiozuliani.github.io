@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Alessio Zuliani"
   pronouns         : # example: "she/her"  
-  bio              : "Entusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
+  bio              : "Enthusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
   location         : "Seville (ES)"
-  employer         : "University of Seville (ES) - Institute for Chemical Research IIQ - Spanish National Research Council (CSIC)"
-  uri              : # URL
+  employer         : "University of Seville (ES)"
+  employer         : "Institute for Chemical Research IIQ-CSIC"
   email            : "none@example.org" 
 
   # Academic websites
