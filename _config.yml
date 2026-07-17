@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/alessiozuliani/alessiozuliani.github.io/blob/49e6ff5027a7d6125044cbed8981416453c06a90/images/profile2.png"
+  avatar           : "bio-photo.jpg"
   name             : "Alessio Zuliani"
   bio              : "Enthusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
   location         : "Seville (ES)"
