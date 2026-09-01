@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-As a chemist and materials scientist, my goal is to bridge fundamental interfacial chemistry with scalable process intensification by harnessing advanced soft-matter nanotechnology.
-I combine rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
+As a chemist and materials scientist, I combine rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
 
 ---
 
