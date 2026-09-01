@@ -7,11 +7,8 @@ redirect_from:
   - /resume
 ---
 
-# 📈 Executive Track Record
-
-*   **Publications:** 31 peer-reviewed articles (24 in top 25% globally, 16 as first author, 8 as corresponding author).
-*   **Intellectual Property:** 3 International Patents (2 granted, 1 submitted) in bio-based materials and nanomedicine.
-*   **Ventures:** Founder & CEO of an early-stage Deep-Tech Start-up (2nd Prize at the European EU EIT Jumpstarter).
+As a chemist and materials scientist, my goal is to bridge fundamental interfacial chemistry with scalable process intensification by harnessing advanced soft-matter nanotechnology.
+I combine rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
 
 ---
 

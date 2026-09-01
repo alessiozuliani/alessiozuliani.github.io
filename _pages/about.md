@@ -8,29 +8,29 @@ redirect_from:
 ---
 
 Born in Como (Italy) and later (after packing my life into suitcases across Europe) shifted to Spain.
-I am a Tenure-track Professor at the University of Seville (ES), an R&D Chemist at the Institute for Chemical Research of the National Research Council (IIQ-CSIC), and a Deep-Tech Founder. 
 
-**As a researcher, my goal is taking complex innovations out of the laboratory and scaling them up into actual industrial applications.**
-To do so, I try to combine the rigor of academic research with the agility and speed of a startup founder.
+I am a Tenure-track Professor at the University of Seville, an R&D Chemist at the Institute for Chemical Research of the National Research Council (IIQ-CSIC), and a Deep-Tech Founder.
 
-*(And yes, to my students currently reading this page looking for material to meme on WhatsApp, X, or whatever app with whatever letter: I know. It's fair game, I used to do the exact same thing to my professors).*
+**As a researcher, I bridge fundamental chemistry and process design to build smart, scalable nanomaterials for diverse applications—from medicine to agriculture (after all, plants are much more similar to us than we think!).**
 
----
+To do so, I combine academic rigor with an agile, problem-solving approach to material design.
 
-# 🌟 The Real Achievements
+(And yes, to my students currently reading this page looking for material to meme on WhatsApp, X, or whatever app with whatever letter: I know. It's fair game—I used to do the same thing to my professors).
 
+🌟 The Real Achievements
 The most successful, high-impact achievements of my life are definitely not found in a peer-reviewed journal or stamped by a patent office:
 
-* 💍 **Marrying a beautiful girl** (by far, my most successful result).
-* 🍼 **Raising our wonderful kids** (easily the most complex, unpredictable, and rewarding project I’ve ever managed).
-* 🏀 **Being in an NBA draft** (just joking, but I still dream about it, even if my love for basketball has never been reciprocated).
+💍 Marrying an incredible girl (my best result).
 
-Everything else is just a way to try and make the world a little bit better for them and for everyone.
+🍼 Raising our wonderful kids (easily the most unpredictable yet rewarding project I've ever managed).
 
----
+🏀 Being in an NBA draft (just joking, though I still dream about it—even if my love for basketball has never been reciprocated).
 
-# 🔬 Research Focus
+Everything else is just my attempt to make the world a little bit better.
 
-* ⚡ **Process Intensification:** Shifting chemical manufacturing from traditional batch processes to continuous flow lines to make production safer, faster, and much cleaner.
-* 🌱 **Green Chemistry:** Designing chemical setups that eliminate waste, use renewable resources, and radically decrease carbon footprints.
-* 🧬 **Hybrid Organic-Inorganic Nanomaterials:** Building next-generation nanomaterials engineered for precise industrial, biomedical, and agrifood targeting.
+🔬 Research Focus
+⚡ Process Intensification: Shifting chemical processing from traditional batch reactors to continuous-flow lines to make manufacturing safer, faster, and much cleaner.
+
+🌱 Green Chemistry: Designing synthetic routes that eliminate waste, utilize renewable inputs, and radically lower environmental footprints.
+
+🧬 Hybrid Organic-Inorganic Nanomaterials: Engineering next-generation nano-architectures for targeted industrial, biomedical, and agricultural applications.
