@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,9 +13,9 @@ As a chemist and materials scientist, I combine rigorous molecular design with h
 # ⏳ Career Timeline
 
 ### **Current Position**
-*   **2026 – Present** | **Faculty Track & Principal Investigator** 
-    *IIQ-CSIC / University of Seville (ES)*
-    Establishing the autonomous research line: *"Bio-inspired Interfacial Architectures via Process Intensification"* backed by the Ramón y Cajal program.
+*   **2026 – Present** | **Faculty Track & Principal Investigator (Ramón y Cajal 2025 program)** 
+    *University of Seville (ES)/ Institute for Chemical Research (IIQ-CSIC)*
+    Research line: *"Bio-inspired Interfacial Architectures via Process Intensification"*
 
 ### **Academic Experience**
 *   **2025 – 2026** | **Assistant Professor** – *University Loyola Andalucía (ES)*
