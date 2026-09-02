@@ -5,7 +5,7 @@ permalink: /contacts/
 author_profile: true
 ---
 
-I am always open to discussing research collaborations, technology transfer opportunities, or academic inquiries. Feel free to get in touch using the form below or via official channels.
+Always happy to connect! Whether it's about research collaborations, tech transfer, or just a quick academic question.
 
 ---
 
