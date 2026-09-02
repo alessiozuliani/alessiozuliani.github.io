@@ -26,7 +26,7 @@ author:
   bio              : "Enthusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
   location         : "Seville (ES)"
   employer         : "University of Seville (ES)"
-  email            : "azuliani@us.es" 
+  # email            : "azuliani@us.es" 
 
   # Academic websites
   Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57103390900"
@@ -35,12 +35,12 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Alessio-Zuliani"
 
   # Repositories and software development
-  github           : "https://alessiozuliani.github.io/"
+  # github           : "https://alessiozuliani.github.io/"
 
 
   # Social media
-  telegram         : # URL
-  twitter          : # Username for X / Twitter
+  # telegram         : # URL
+  # twitter          : # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
