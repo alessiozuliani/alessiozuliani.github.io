@@ -18,5 +18,5 @@ As a chemist and materials scientist, I combine rigorous molecular design with h
 
 For a complete, real-time updated list of peer-reviewed articles, citations, and patents, please visit my official profiles:
 
-* 🟢 **[ORCID Profile](https://orcid.org/IL_TUO_NUMERO_ORCID)**
-* 🎓 **[Google Scholar Profile](https://scholar.google.com/citations?user=IL_TUO_ID_SCHOLAR)**
+* 🟢 <a href="https://orcid.org/0000-0003-2738-254X" target="_blank" rel="noopener noreferrer"><b>ORCID Profile</b></a>
+* 🎓 <a href="https://scholar.google.com/citations?user=-SGSINoAAAAJ&view_op=list_works&gmla=AKCpqFziejnSCRFaUxXLwVQTMgMJnn4LRfxI7djeD_y1VRKEGe477v1ww9Nd-8RNNBzjUxAhJAXH44jMgpWjKefM2onL" target="_blank" rel="noopener noreferrer"><b>Google Scholar Profile</b></a>
