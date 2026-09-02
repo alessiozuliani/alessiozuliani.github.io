@@ -45,16 +45,3 @@ author_profile: true
 * **2015** — **MSc in Industrial Chemistry** — *University of Milan, Italy*
 * **2013** — **BSc in Chemistry** — *University of Milan, Italy*
 
----
-
-### 🏆 Selected Awards
-* **2024** — **2nd Place** — EU TalentON Cancer Prevention Arena *(out of >1,200 candidates)*.
-* **2024** — **2nd Place** — EIT Jumpstarter European Venture Capital Programme.
-* **2018** — **Best Industrial Prototype Award** — CNR & Cariplo Foundation *(Small-Scale Biogas Digester)*.
-
----
-
-### 🤝 Community Service & Tech Transfer
-* **Teaching & Mentoring:** >350 hours of university lecturing; supervisor of 3 thesis works and 2 visiting PhD candidates.
-* **Scientific Reviewer:** *Nature Communications*, *ACS Sustainable Chemistry & Engineering*, *RSC Advances*, and others.
-* **Grant Evaluation:** International grant evaluator for the National Science Center of Poland.
