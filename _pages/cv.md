@@ -6,10 +6,6 @@ redirect_from:
   - /resume
 ---
 
-As a chemist and materials scientist, I combine rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
-
----
-
 # ⏳ Career Timeline
 
 ### **Current Position**
