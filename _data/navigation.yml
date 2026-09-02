@@ -10,15 +10,15 @@
 main:
   - title: "Research"
     url: /research/
-
+    
+  - title: "My Journey"
+    url: /cv/
+    
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Lab Corner"
     url: /year-archive/
-    
-  - title: "My Journey"
-    url: /cv/
 
   - title: "Get in Touch"
     url: /contacts/
