@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lab Corner & Resources"
-permalink: /Lab-corner/
+permalink: /lab-corner/
 author_profile: true
 ---
 
