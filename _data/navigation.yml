@@ -12,7 +12,7 @@ main:
     url: /research/
     
   - title: "My Journey"
-    url: /cv/
+    url: /myjourney/
     
   - title: "Teaching"
     url: /teaching/    
