@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-My research line **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
+My research line **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design robust, stimulus-responsive nanostructures for dynamic environments.
 
 
 ### 🔬 Main Focus
