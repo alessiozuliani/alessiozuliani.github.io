@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-As a chemist and materials scientist, my research line centers on **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** — combining rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
+My research line **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with high-throughput continuous-flow methodologies to engineer resilient, stimulus-responsive nanostructures for dynamic environments.
 
 
 ### 🔬 Main Focus
