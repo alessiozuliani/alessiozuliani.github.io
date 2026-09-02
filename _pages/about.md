@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Born in Como (Italy) — and after packing my life into a few suitcases across Europe — I eventually shifted to Spain. 
+Born in Como (Italy) and, after packing my life into a few suitcases across Europe, moved to Spain. 
 
-I work as a Tenure-track Professor at the University of Seville and R&D Chemist at IIQ-CSIC. I've been also a Deep-Tech Founder. My work focuses on building smart nanomaterials and turning laboratory reactions into real-world applications (from medicine to agriculture — after all, plants are much more similar to us than we think!).
+I work as a Tenure-track Professor at the University of Seville and R&D Chemist at the Institute for Chemical Research (IIQ-CSIC). I've also been a Deep-Tech Founder. My work focuses on building smart (nano)materials to turn laboratory reactions into real-world applications (from medicine to agriculture — after all, plants are much more similar to us than we think!).
 
-> *(To my students currently reading this page looking for meme material for WhatsApp or TikTok: I know. It's fair game — I used to do the same to my professors).*
+> *(To my students currently reading this page looking for meme material for X, WhatsApp, TikTok, or whatever app with whatever letter: I know. It's fair game — I used to do the same to my professors).*
 
 ---
 
@@ -22,11 +22,3 @@ The most high-impact results of my life are definitely not found in a journal or
 * 💍 **Marrying an incredible girl** (my best result).
 * 🍼 **Raising our kids** (easily the most unpredictable yet rewarding project I've ever managed).
 * 🏀 **Being drafted in the NBA** (just joking, though I still dream about it, even if my love for basketball was never reciprocated).
-
----
-
-### 🔬 Research Focus
-
-* ⚡ **Process Intensification:** Moving chemical reactions from old batch reactors into continuous-flow lines — making production safer, faster, and cleaner.
-* 🌱 **Green Chemistry:** Designing setups that eliminate waste, use renewable resources, and lower environmental footprints.
-* 🧬 **Hybrid Nanomaterials:** Building hybrid organic-inorganic nanomaterials engineered for targeted industrial, biomedical, and agrifood uses.
