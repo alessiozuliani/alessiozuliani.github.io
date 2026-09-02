@@ -11,7 +11,7 @@ I am always open to discussing research collaborations, technology transfer oppo
 
 ### 📩 Send a Message
 
-<form action="https://formspree.io/f/TUO_FORM_ID" method="POST" style="margin-bottom: 30px;">
+<form action="https://formspree.io/f/mbgjokwb" method="POST" style="margin-bottom: 30px;">
   <p>
     <label><strong>Your Name:</strong></label><br>
     <input type="text" name="name" required style="width: 100%; padding: 8px;">
