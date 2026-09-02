@@ -1,63 +1,41 @@
 ---
 layout: archive
-permalink: /cv/
+permalink: /myjourney/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# ⏳ Career Timeline
+### ⏳ Career Timeline
 
-### **Current Position**
-*   **2026 – Present** | **Faculty Track & Principal Investigator (Ramón y Cajal 2025 program)** 
-    *University of Seville (ES)/ Institute for Chemical Research (IIQ-CSIC)*
-    Research line: *"Bio-inspired Interfacial Architectures via Process Intensification"*
+#### Current Position
+* **2026 – Present** | **Faculty Track & Principal Investigator** (Ramón y Cajal Program)  
+  *University of Seville / Institute for Chemical Research (IIQ-CSIC), Spain*  
+  *Research Line:* "Bio-inspired Interfacial Architectures via Process Intensification"
 
-### **Academic Experience**
-*   **2025 – 2026** | **Assistant Professor** – *University Loyola Andalucía (ES)*
-*   **2022 – 2025** | **Postdoctoral Fellow** – *IIQ-CSIC / University of Seville (ES)*
-    Smart nanovectors for oncological drug delivery. Awarded the competitive PAIDI fellowship.
-*   **2020 – 2022** | **Postdoctoral Fellow** – *CSGI / University of Florence (IT)*
-    Developed green formulations for cultural heritage preservation (used by the Peggy Guggenheim Collection).
-*   **2017 – 2019** | **MSCA PhD Fellow** – *University of Córdoba (ES)*
-    Continuous-flow technology and microwave/ultrasound-assisted synthesis.
+#### Academic Experience
+* **2025 – 2026** | **Professor** — *University Loyola Andalucía, Spain*
+* **2022 – 2025** | **Postdoctoral Fellow** — *IIQ-CSIC / University of Seville, Spain*  
+  *Focus:* Smart nanovectors for oncological drug delivery (Awarded competitive PAIDI fellowship from Andalucia Region).
+* **2020 – 2022** | **Postdoctoral Fellow** — *CSGI / University of Florence, Italy*  
+  *Focus:* Green formulations for cultural heritage preservation (deployed at Peggy Guggenheim Collection).
+* **2017 – 2019** | **MSCA PhD Fellow** — *University of Córdoba, Spain*  
+  *Focus:* Continuous-flow technology and microwave/ultrasound-assisted synthesis of nanoparticles.
 
-### **Industrial Experience**
-*   **2016** | **R&D Advanced Materials Technologist** – *Menzolit Srl (IT)*
-    Co-led the R&D laboratory for automotive high-performance moulding compounds.
-*   **2016** | **R&D Brand Manager Assistant** – *Bolton Group Srl (IT)*
-    Product-formulation matrices for industrial laundry care.
-*   **2012 – 2013** | **IT & Industrial Consultant** – *Milan (IT)*
-    Process optimization and industrial software integration.
-
----
-
-# 🌍 International Stays
-*   **KU Leuven (Belgium)** – Advanced organic synthesis (Prof. E. Van der Eycken).
-*   **University of Turin (Italy)** – Sonochemistry & acoustic cavitation (Prof. G. Cravotto).
-*   **Microinnova GmbH (Austria)** – Industrial pilot-plant scale-up for nanoparticle synthesis.
-*   **University of Prague (Czech Republic)** – Process intensification of biofuel upgrading.
+#### Industrial Experience
+* **2016** | **R&D Advanced Materials Technologist** — *Menzolit Srl, Italy*  
+  *Focus:* Co-led R&D laboratory for automotive high-performance moulding compounds.
+* **2016** | **R&D Brand Manager Assistant** — *Bolton Group Srl, Italy*  
+  *Focus:* Product-formulation matrices for industrial laundry care.
+* **2012 – 2013** | **IT & Industrial Consultant** — *Milan, Italy*  
+  *Focus:* Process optimization and industrial software integration.
 
 ---
 
-# 🎓 Education
-*   **2019** | **PhD in Chemistry (Cum Laude & International Mention)** – *University of Córdoba (ES)*
-*   **2017** | **MSc in Biomass and Energy Efficiency** – *National Research Council (CNR, IT)*
-*   **2015** | **MSc in Industrial Chemistry** – *University of Milan (IT)*
-*   **2013** | **BSc in Chemistry** – *University of Milan (IT)*
-
----
-
-# 🏆 Selected Awards
-*   **2024** | **2nd Place** – *EU TalentON Cancer Prevention Arena* (out of >1,200 candidates).
-*   **2024** | **2nd Place** – *EIT Jumpstarter European Venture Capital Programme* (€8,000 prize).
-*   **2018** | **Best Industrial Prototype Award** – *CNR & Cariplo Foundation* (Small-Scale Biogas Digester).
-
----
-
-# 🤝 Community Service & Tech Transfer
-*   **Teaching & Mentoring:** >350 hours of university lecturing; supervisor of 3 thesis works and 2 visiting PhD candidates.
-*   **Scientific Reviewer:** *Nature Communications*, *ACS Sustainable Chemistry & Engineering*, *RSC Advances*, and others.
-*   **Evaluating:** International grant evaluator for the National Science Center of Poland.
+### 🌍 International Stays
+* **KU Leuven** *(Belgium)* — Advanced organic synthesis (Prof. E. Van der Eycken).
+* **University of Turin** *(Italy)* — Sonochemistry & acoustic cavitation (Prof. G. Cravotto).
+* **Microinnova GmbH** *(Austria)* — Industrial pilot-plant scale-up for nanoparticle synthesis.
+* **University of Prague** *(Czech Republic)* — Process intensification of biofuel upgrading.
 
 
