@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Born in Como (Italy) and, after packing my life into a few suitcases across Europe, moved to Spain. 
+Born in Italy shortly after the 1990 World Cup, I packed my life into a few suitcases and set off across Europe before settling in Spain.
 
 I work as a Tenure-track Professor at the University of Seville and R&D Chemist at the Institute for Chemical Research (IIQ-CSIC). I've also been a Deep-Tech Founder. My work focuses on building smart (nano)materials to turn laboratory reactions into real-world applications (from medicine to agriculture — after all, plants are much more similar to us than we think!).
 
