@@ -1,18 +1,17 @@
 ---
 layout: archive
-title: "My Journey"
 permalink: /myjourney/
 author_profile: true
 ---
 
 ### ⏳ Career Timeline
 
-#### Current Position
+### Current Position
 * **2026 – Present** — **Faculty Track & Principal Investigator** (Ramón y Cajal Program)  
   *University of Seville / Institute for Chemical Research (IIQ-CSIC), Spain*  
   *Research Line:* "Bio-inspired Interfacial Architectures via Process Intensification"
 
-#### Academic Experience
+### Academic Experience
 * **2025 – 2026** — **Assistant Professor** — *University Loyola Andalucía, Spain*
 * **2022 – 2025** — **Postdoctoral Fellow** — *IIQ-CSIC / University of Seville, Spain*  
   *Focus:* Smart nanovectors for oncological drug delivery (Awarded competitive PAIDI fellowship).
@@ -21,7 +20,7 @@ author_profile: true
 * **2017 – 2019** — **MSCA PhD Fellow** — *University of Córdoba, Spain*  
   *Focus:* Continuous-flow technology and microwave/ultrasound-assisted synthesis.
 
-#### Industrial Experience
+### Industrial Experience
 * **2016** — **R&D Advanced Materials Technologist** — *Menzolit Srl, Italy*  
   *Focus:* Co-led R&D laboratory for automotive high-performance moulding compounds.
 * **2016** — **R&D Brand Manager Assistant** — *Bolton Group Srl, Italy*  
