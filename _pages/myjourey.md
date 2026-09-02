@@ -1,10 +1,9 @@
 ---
 layout: archive
+title: "⏳ Career Timeline"
 permalink: /myjourney/
 author_profile: true
 ---
-
-### ⏳ Career Timeline
 
 ### Current Position
 * **2026 – Present** — **Faculty Track & Principal Investigator** (Ramón y Cajal Program)  
