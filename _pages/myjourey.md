@@ -1,9 +1,8 @@
 ---
 layout: archive
+title: "My Journey"
 permalink: /myjourney/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 ### ⏳ Career Timeline
@@ -14,13 +13,13 @@ redirect_from:
   *Research Line:* "Bio-inspired Interfacial Architectures via Process Intensification"
 
 #### Academic Experience
-* **2025 – 2026** | **Professor** — *University Loyola Andalucía, Spain*
+* **2025 – 2026** | **Assistant Professor** — *University Loyola Andalucía, Spain*
 * **2022 – 2025** | **Postdoctoral Fellow** — *IIQ-CSIC / University of Seville, Spain*  
-  *Focus:* Smart nanovectors for oncological drug delivery (Awarded competitive PAIDI fellowship from Andalucia Region).
+  *Focus:* Smart nanovectors for oncological drug delivery (Awarded competitive PAIDI fellowship).
 * **2020 – 2022** | **Postdoctoral Fellow** — *CSGI / University of Florence, Italy*  
   *Focus:* Green formulations for cultural heritage preservation (deployed at Peggy Guggenheim Collection).
 * **2017 – 2019** | **MSCA PhD Fellow** — *University of Córdoba, Spain*  
-  *Focus:* Continuous-flow technology and microwave/ultrasound-assisted synthesis of nanoparticles.
+  *Focus:* Continuous-flow technology and microwave/ultrasound-assisted synthesis.
 
 #### Industrial Experience
 * **2016** | **R&D Advanced Materials Technologist** — *Menzolit Srl, Italy*  
@@ -38,4 +37,24 @@ redirect_from:
 * **Microinnova GmbH** *(Austria)* — Industrial pilot-plant scale-up for nanoparticle synthesis.
 * **University of Prague** *(Czech Republic)* — Process intensification of biofuel upgrading.
 
+---
 
+### 🎓 Education
+* **2019** | **PhD in Chemistry** *(Cum Laude & International Mention)* — *University of Córdoba, Spain*
+* **2017** | **MSc in Biomass and Energy Efficiency** — *National Research Council (CNR), Italy*
+* **2015** | **MSc in Industrial Chemistry** — *University of Milan, Italy*
+* **2013** | **BSc in Chemistry** — *University of Milan, Italy*
+
+---
+
+### 🏆 Selected Awards
+* **2024** | **2nd Place** — EU TalentON Cancer Prevention Arena *(out of >1,200 candidates)*.
+* **2024** | **2nd Place** — EIT Jumpstarter European Venture Capital Programme.
+* **2018** | **Best Industrial Prototype Award** — CNR & Cariplo Foundation *(Small-Scale Biogas Digester)*.
+
+---
+
+### 🤝 Community Service & Tech Transfer
+* **Teaching & Mentoring:** >350 hours of university lecturing; supervisor of 3 thesis works and 2 visiting PhD candidates.
+* **Scientific Reviewer:** *Nature Communications*, *ACS Sustainable Chemistry & Engineering*, *RSC Advances*, and others.
+* **Grant Evaluation:** International grant evaluator for the National Science Center of Poland.
