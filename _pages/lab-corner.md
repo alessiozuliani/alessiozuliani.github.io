@@ -5,25 +5,24 @@ permalink: /lab-corner/
 author_profile: true
 ---
 
-A open repository of operational protocols, student guides, and lab resources. 
-Feel free to download and use these materials for research and academic purposes.
+This repository holds our group's open protocols, student onboarding materials, and characterization routines (we are working on it, but this is just the beginning!).
+Use them, share them, and please cite them if they help your research: this is our (small) contribution to the Scientific Community!
 
 ---
 
 ### 📄 Protocols
 
-* 📥 [**SOP: PCN-222 (MOF-545) Synthesis & Handling (PDF)**](/assets/pdf/PCN222synthesis.pdf)  
-*Detailed protocol and practical tips for the reproducible preparation of size-controlled PCN-222 (MOF-545).*
+* 📥 [**Zr₆-Benzoate Nodes Preparation & Characterization (PDF)**](/assets/pdf/Zr6 clusters nodes preparation V1.1.pdf) | [DOI:10.5281/zenodo.22300055](https://zenodo.org/records/22300055)  
+  *Detailed protocol and tips for the synthesis of Zr₆ nodes.*
 
 
 ---
 
 ### 🎓 Student Resources
 
-* 📥 [**Guide for Bachelor’s & Master’s Thesis Writing (PDF)**](/assets/docs/Thesis_Guidelines_Group.pdf)  
+* 📥 [**Guide for TFM and TFG with examples (PDF)**](/assets/docs/Thesis_Guidelines_Group.pdf)  
   *Formatting guidelines, reference management tips, and structure recommendations for students.*
-* 📥 [**Good Research Practices & Data Management (PDF)**](/assets/docs/Data_Management_FAIR.pdf)  
-  *Guidelines on electronic lab notebooks, raw data curation, and open access principles.*
+
 
 ---
 
