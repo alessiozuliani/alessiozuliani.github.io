@@ -12,7 +12,7 @@ Use them, share them, and please cite them if they help your research: this is o
 
 ### 📄 Protocols
 
-* 📥 [**Zr₆-Benzoate Nodes Preparation & Characterization (PDF)**](/assets/pdf/Zr6 clusters nodes preparation V1.1.pdf) | [DOI:10.5281/zenodo.22300055](https://zenodo.org/records/22300055)  
+* 📥 [**Zr₆-Benzoate Nodes Preparation & Characterization (PDF)**](/assets/pdf/Zr6clustersnodespreparationV1.1.pdf) | [DOI:10.5281/zenodo.22300055](https://zenodo.org/records/22300055)  
   *Detailed protocol and tips for the synthesis of Zr₆ nodes.*
 
 
