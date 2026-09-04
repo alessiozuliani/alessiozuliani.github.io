@@ -12,9 +12,9 @@ author_profile: true
 
 ### Academic Experience
 * **2025 – 2026** — **Assistant Professor** — *University Loyola Andalucía, Spain*
-* **2022 – 2025** — **Postdoctoral Fellow** — *IIQ-CSIC / University of Seville, Spain*  
-  *Focus:* Smart nanovectors for oncological drug delivery (Awarded competitive PAIDI fellowship).
-* **2020 – 2022** — **Postdoctoral Fellow** — *CSGI / University of Florence, Italy*  
+* **2022 – 2025** — **Postdoctoral Fellow** — *IIQ-CSIC / University of Seville, Spain (Dr. Noureddine Khiar)*  
+  *Focus:* Smart nanovectors for oncological drug delivery.
+* **2020 – 2022** — **Postdoctoral Fellow** — *CSGI / University of Florence, Italy (Prof. Piero Baglioni)*  
   *Focus:* Green formulations for cultural heritage preservation (deployed at Peggy Guggenheim Collection).
 * **2017 – 2019** — **MSCA PhD Fellow** — *University of Córdoba, Spain*  
   *Focus:* Continuous-flow technology and microwave/ultrasound-assisted synthesis.
@@ -32,8 +32,8 @@ author_profile: true
 ### 🌍 International Stays
 * **KU Leuven** *(Belgium)* — Advanced organic synthesis (Prof. E. Van der Eycken).
 * **University of Turin** *(Italy)* — Sonochemistry & acoustic cavitation (Prof. G. Cravotto).
-* **Microinnova GmbH** *(Austria)* — Industrial pilot-plant scale-up for nanoparticle synthesis.
-* **University of Prague** *(Czech Republic)* — Process intensification of biofuel upgrading.
+* **Microinnova GmbH** *(Austria)* — Industrial pilot-plant scale-up for nanoparticle synthesis (Dr. Dirk Kirschneck).
+* **University of Prague** *(Czech Republic)* — Process intensification of biofuel upgrading (Prof. David Kubička).
 
 ---
 
