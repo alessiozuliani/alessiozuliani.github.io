@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 This repository holds our group's open protocols, student onboarding materials, and characterization routines (we are working on it, but this is just the beginning!).
+
 Use them, share them, and please cite them if they help your research: this is our (small) contribution to the Scientific Community!
 
 ---
