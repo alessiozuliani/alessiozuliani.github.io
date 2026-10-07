@@ -6,12 +6,12 @@ redirect_from:
   - /research
 ---
 
-The research line I am developing **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design innovative, stimulus-responsive nanostructures for dynamic environments.
+The research line I am developing **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design innovative, stimulus-responsive nanostructures for dynamic environments, with a primary focus on agrifood systems.
 
 
 ### 🔬 Main Focus
 
-* 🧬 **Hybrid Nanomaterials:** Building hybrid organic-inorganic nanomaterials for targeted biomedical and agrifood uses.
+* 💎 **Hybrid Nanomaterials:** Building hybrid organic-inorganic nanomaterials for targeted uses.
 * ⚡ **Process Intensification:** Moving chemical reactions from old batch reactors into continuous-flow lines, making production safer, faster, and cleaner.
 * 🌱 **Green Chemistry:** Designing setups that eliminate waste, use renewable resources, and lower environmental footprints.
 
