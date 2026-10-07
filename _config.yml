@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "https://alessiozuliani.github.io/images/bio-photo.jpg"
-  name             : "Alessio Zuliani, Ph.D."
+  name             : "Alessio Zuliani"
   bio              : "Enthusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
   location         : "Seville (ES)"
   employer         : "University of Seville (ES)"
