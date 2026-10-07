@@ -24,7 +24,7 @@ Use them, share them, and please cite them if they help your research: this is o
 * 📥 [**Guide for TFM and TFG with examples (PDF)**](/assets/docs/Thesis_Guidelines_Group.pdf)  
   *Formatting guidelines, reference management tips, and structure recommendations for students.*
 
-* 📋 [**Ejemplos formulación inorgánica (PDF)**](/assets/docs/Formulacióninorgánica.pdf)  
+* 📋 [**Ejemplos formulación inorgánica (PDF)**](/assets/pdf/Formulacióninorgánica.pdf)  
   *Relación de compuestos inorgánicos con su formulación IUPAC (estequiométrica y Stock) y tradicional para prácticas de nomenclatura.*
 
 ---
