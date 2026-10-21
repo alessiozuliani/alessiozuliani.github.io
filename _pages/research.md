@@ -6,14 +6,14 @@ redirect_from:
   - /research
 ---
 
-The research line I am developing **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design innovative, stimulus-responsive nanostructures for dynamic environments, with a primary focus on agrifood systems.
+The research line I am developing **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design innovative, stimulus-responsive nanostructures. With a primary focus on agrifood and environmental systems, the scientific goal is to control and tune the dynamic protection, capture, and regulated delivery (release) of biogenic volatile organic compounds (BVOCs) and natural elicitors.
 
 
 ### 🔬 Main Focus
 
-* 💎 **Hybrid Nanomaterials:** Building hybrid organic-inorganic nanomaterials for targeted uses.
-* ⚡ **Process Intensification:** Moving chemical reactions from old batch reactors into continuous-flow lines, making production safer, faster, and cleaner.
-* 🌱 **Green Chemistry:** Designing setups that eliminate waste, use renewable resources, and lower environmental footprints.
+* 💎 **Hybrid Nanomaterials:** Design and functional validation of eco-friendly soft-matter and hybrid organic-inorganic architectures tailored for the encapsulation, UV protection, and triggered release of natural compounds.
+* ⚡ **Process Intensification:** Shift from traditional batch self-assembly to automated micro/millifluidic platforms to ensure precise kinetic control, high batch-to-batch reproducibility, and streamlined process scalability.
+* 🌱 **Green Chemistry:** Integration of bio-based precursors and non-hazardous solvents, systematically evaluated through quantitative metrics (e.g., Process Mass Intensity, E-factor) and life-cycle assessment (LCA).
 
 
 
