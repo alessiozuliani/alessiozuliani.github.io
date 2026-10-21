@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Alessio Zuliani, Ph.D."
+title                    : "Alessio Zuliani"
 title_separator          : "-"
 description              : &description "Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alessiozuliani.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "https://alessiozuliani.github.io/images/bio-photo.jpg"
-  name             : "Alessio Zuliani"
+  name             : "Alessio Zuliani, Ph.D."
   bio              : "Enthusiastic dad | Tenure-track Professor | R&D Chemist | Deep-Tech Founder"
   location         : "Seville (ES)"
   employer         : "University of Seville (ES)"
