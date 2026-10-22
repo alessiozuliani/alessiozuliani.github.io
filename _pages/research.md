@@ -6,13 +6,21 @@ redirect_from:
   - /research
 ---
 
-The research line I am developing **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"** combines rigorous molecular design with advanced synthetic methodologies, such as continuous flow and microwave-/ultrasound-assisted synthesis, to design innovative, stimulus-responsive nanostructures. With a primary focus on agrifood and environmental systems, the scientific goal is to control and tune the dynamic protection, capture, and regulated delivery (release) of biogenic volatile organic compounds (BVOCs) and natural elicitors.
+The research line I am developing, **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"**, merges molecular design with continuous-flow processing and acoustic/microwave activation to engineer dynamic, stimulus-responsive soft and hybrid nanomaterials for agrifood and environmental applications.
+
+This line represents the convergence of my scientific trajectory across leading European institutions:
+
+- **Process Intensification:** Advanced during my PhD at the **University of Cordoba** (ES) within the EU MSCA-ITN project **COMIC** (*European Training Network for Continuous Sonication and Microwave Reactors*, Grant Agreement 711290, consortium coordinated by Prof. Tom Van Gerven at KU Leuven), where I developed ultrasound-/microwave-assisted and continuous-flow synthesis for nanomaterial preparation.
+
+- **Interfacial Engineering:** Expanded during my first postdoctoral fellowship at the **University of Florence** (IT) within the EU MSCA-ITN project **APACHE** (*Active & intelligent PAckaging materials and display cases as a tool for preventive conservation of Cultural Heritage*, Grant Agreement 814496) under the supervision of Prof. Piero Baglioni, focusing on bio-based and hybrid organic–inorganic matrices tailored for cultural heritage preservation and restoration.
+
+- **Stimulus-Responsive Release Systems & Functional Nanosystems:** Investigated through my second postdoctoral fellowship at the **Institute for Chemical Research (IIQ, CSIC–University of Seville)** under the supervision of Dr. Noureddine Khiar, where I integrated advanced nanoparticle synthesis, surface functionalization, and dynamic chemistry to design targeted delivery systems.
 
 
-### 🔬 Main Focus
+### 🔬 Main Focus: Advanced Materials & Sustainable Agri-Systems
 
-* 💎 **Hybrid Nanomaterials:** Design and functional validation of eco-friendly soft-matter and hybrid organic-inorganic architectures tailored for the encapsulation, UV protection, and triggered release of natural compounds.
-* ⚡ **Process Intensification:** Shift from traditional batch self-assembly to automated micro/millifluidic platforms to ensure precise kinetic control, high batch-to-batch reproducibility, and streamlined process scalability.
+* 💎 **Hybrid Nanomaterials:** Design and functional validation of eco-friendly soft-matter and hybrid organic-inorganic architectures.
+* ⚡ **Continuous Flow:** Shift from traditional batch self-assembly to automated micro/millifluidic platforms to ensure precise kinetic control, high batch-to-batch reproducibility, and streamlined process scalability.
 * 🌱 **Green Chemistry:** Integration of bio-based precursors and non-hazardous solvents, systematically evaluated through quantitative metrics (e.g., Process Mass Intensity, E-factor) and life-cycle assessment (LCA).
 
 
