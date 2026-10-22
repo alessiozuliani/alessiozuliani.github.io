@@ -8,7 +8,7 @@ author_profile: true
 ### Current Position
 * **2026 – Present** — **Faculty Track & Principal Investigator** (Ramón y Cajal Program)  
   *University of Seville / Institute for Chemical Research (IIQ-CSIC), Spain*  
-  *Research Line:* "Bio-inspired Interfacial Architectures via Process Intensification"
+  *Research Line:* "Bio-inspired Interfacial Nanoarchitectures via Process Intensification"
 
 ### Academic Experience
 * **2025 – 2026** — **Assistant Professor** — *University Loyola Andalucía, Spain*
