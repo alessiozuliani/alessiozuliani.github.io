@@ -16,8 +16,8 @@ I work as a Tenure-track Professor at the University of Seville and R&D Chemist 
 
 The most high-impact results of my life are definitely not found in a journal or stamped by a patent office:
 
-* 💍 **Marrying an incredible girl** (surely, my best result)
-* 🍼 **Raising our kids** (easily the most unpredictable yet rewarding project of my life)
-* 🏀 **Being drafted in the NBA** (just joking, though I still dream about it, even if my love for basketball was never reciprocated)
+* 💍 **Marrying an incredible girl**, surely, my best result
+* 🍼 **Raising our kids**, easily the most unpredictable yet rewarding project of my life
+* 🏀 **Being drafted in the NBA**, just joking, though I still dream about it, even if my love for basketball was never reciprocated
 
 > *(To my students currently reading this page looking for meme material for X, WhatsApp, TikTok, or whatever App with whatever letter: I know. It's fair game, I used to do the same to my professors).*
