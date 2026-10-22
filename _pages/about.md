@@ -9,14 +9,14 @@ redirect_from:
 
 Born in Italy shortly after the 1990 World Cup, I packed my life into a few suitcases and set off across Europe before settling in Spain.
 
-I work as a Tenure-track Professor at the University of Seville and R&D Chemist at the Institute for Chemical Research (IIQ-CSIC). I've also been a Deep-Tech Founder. My work focuses on building smart (nano)materials to turn laboratory reactions into real-world applications, focusing especially on agrifood.
+Currently, I am a Tenure-Track Professor at the **University of Seville** (Ramón y Cajal Fellow) and Researcher at the **Institute for Chemical Research (IIQ, CSIC–US)**. My work centers on building smart (nano)materials to turn laboratory reactions into real-world applications, focusing especially on sustainable agrifood systems.
 
 
 ### 🌟 The Real Achievements
 
-The most high-impact results of my life are definitely not found in a journal or stamped by a patent office:
+The most high-impact results of my life are definitely not found in a high-impact journal or stamped by a patent office:
 
-* 💍 **Marrying an incredible girl**: surely, my best result
+* 💍 **Marrying my incredible wife**: surely, my best result
 * 🍼 **Raising our kids**: easily the most unpredictable yet rewarding project of my life
 * 🏀 **Being drafted in the NBA**: just joking, though I still dream about it, even if my love for basketball was never reciprocated
 
