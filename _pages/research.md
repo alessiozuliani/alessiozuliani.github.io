@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-The research line I am developing, **"Bio-inspired Interfacial Nanoarchitectures via Process Intensification"**, merges molecular design with continuous-flow processing and acoustic/microwave activation to engineer dynamic, stimulus-responsive soft and hybrid nanomaterials for agrifood and environmental applications.
+I am establishing LORIEN (Laboratory Of Responsive Interfacial Engineered Nanomaterials). Driven by the research line “Bio-inspired Interfacial Nanoarchitectures via Process Intensification”, the lab merges molecular design with continuous-flow processing and acoustic/microwave activation to engineer dynamic, stimulus-responsive soft and hybrid systems for agrifood and environmental applications.
 
 This line represents the convergence of my scientific trajectory across leading European institutions:
 
