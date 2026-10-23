@@ -10,11 +10,11 @@ The research line I am developing, **"Bio-inspired Interfacial Nanoarchitectures
 
 This line represents the convergence of my scientific trajectory across leading European institutions:
 
-- **Process Intensification:** Advanced during my PhD at the **University of Cordoba** (ES) within the EU MSCA-ITN project **COMIC** (*European Training Network for Continuous Sonication and Microwave Reactors*, Grant Agreement 711290, consortium coordinated by Prof. Tom Van Gerven at KU Leuven), where I developed ultrasound-/microwave-assisted and continuous-flow synthesis for nanomaterial preparation.
+- **Process Intensification and nanoparticles synthesis:** Advanced during my PhD at the **University of Cordoba** (ES) within the EU MSCA-ITN project **COMIC** (*European Training Network for Continuous Sonication and Microwave Reactors*, Grant Agreement 711290, consortium coordinated by Prof. Tom Van Gerven at KU Leuven), where I developed ultrasound-/microwave-assisted and continuous-flow synthesis for nanomaterial preparation.
 
 - **Interfacial Engineering:** Expanded during my first postdoctoral fellowship at the **University of Florence** (IT) within the EU MSCA-ITN project **APACHE** (*Active & intelligent PAckaging materials and display cases as a tool for preventive conservation of Cultural Heritage*, Grant Agreement 814496) under the supervision of Prof. Piero Baglioni, focusing on bio-based and hybrid organic–inorganic matrices tailored for cultural heritage preservation and restoration.
 
-- **Stimulus-Responsive Release Systems & Functional Nanosystems:** Investigated through my second postdoctoral fellowship at the **Institute for Chemical Research (IIQ, CSIC–University of Seville)** under the supervision of Dr. Noureddine Khiar, where I integrated advanced nanoparticle synthesis, surface functionalization, and dynamic chemistry to design targeted delivery systems.
+- **Stimulus-Responsive Systems:** Investigated through my second postdoctoral fellowship at the **Institute for Chemical Research (IIQ, CSIC–University of Seville)** under the supervision of Dr. Noureddine Khiar, where I integrated advanced nanoparticle surface functionalization and dynamic chemistry to design targeted delivery systems for cancer treatment.
 
 
 ### 🔬 Main Focus: Advanced Materials & Sustainable Agri-Systems
